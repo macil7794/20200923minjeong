@@ -1,0 +1,47 @@
+.blackbox {width:690px;
+		height: 690px;
+		background-color: black;
+		margin-left: 350px;
+		position: absolute;}
+.white1 {width: 137px;
+		height:193px;
+		position: absolute;
+		left: 360px;
+		top:10px;
+		background-color: white;}
+.white2 {width: 137px;
+		height:235px;
+		position: absolute;
+		left: 360px;
+		top:245px;
+		background-color: white;}
+.blue {width: 137px;
+		height:168px;
+		position: absolute;
+		left: 360px;
+		top:502px;
+		background-color: blue;}
+.red {width: 512px;
+		height:478px;
+		position: absolute;
+		left: 520px;
+		top:10px;
+		background-color: red;}
+.white3 {width: 440px;
+		height:168px;
+		position: absolute;
+		left: 520px;
+		top:502px;
+		background-color: white;}
+.white4 {width: 57px;
+		height:75px;
+		position: absolute;
+		left: 975px;
+		top:502px;
+		background-color: white;}
+.yellow {width: 57px;
+		height:75px;
+		position: absolute;
+		left: 975px;
+		top:594px;
+		background-color: yellow;}
